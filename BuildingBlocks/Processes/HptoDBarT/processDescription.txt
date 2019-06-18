@@ -1,0 +1,2 @@
+Hp -> DBar,T
+MHp,MD,MT

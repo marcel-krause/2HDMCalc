@@ -1,0 +1,1 @@
+((-I/2)*EL*MM*Yuk6*Spinor[Momentum[p3], MM, 1] . DiracGamma[5] . Spinor[-Momentum[p4], MM, 1])/(MW*SW)

@@ -1,0 +1,4 @@
+I*Pi^2*(((-I/64)*EL^3*MD^3*Mh0^2*SBA*B0[MD^2, MD^2, MZ^2*GaugeXi[Z]])/((4*MD^2 - Mh0^2)*MW^3*Pi^4*SW^3) + 
+  ((I/64)*EL^3*MD^3*Mh0^2*SBA*B0[Mh0^2, MZ^2*GaugeXi[Z], MZ^2*GaugeXi[Z]])/((4*MD^2 - Mh0^2)*MW^3*Pi^4*SW^3) + 
+  ((I/128)*EL^3*MD^3*Mh0^2*SBA*C0[MD^2, MD^2, Mh0^2, MZ^2*GaugeXi[Z], MD^2, MZ^2*GaugeXi[Z]]*(Mh0^2 - 2*MZ^2*GaugeXi[Z]))/
+   ((4*MD^2 - Mh0^2)*MW^3*Pi^4*SW^3))*StandardMatrixElement[Spinor[Momentum[p3], MD, 1] . Spinor[-Momentum[p4], MD, 1]]

@@ -1,0 +1,20 @@
+I*Pi^2*(-(CBA^2*EL^3*(Mh0^2 - MHp^2)*(MA0^2 - MHp^2 + MW^2)*(MA0^2 - Mh0^2 + MZ^2)*B0[MA0^2, Mh0^2, MZ^2])/
+   (64*CW^2*(MA0 - MHp - MW)*(MA0 + MHp - MW)*(MA0 - MHp + MW)*(MA0 + MHp + MW)*MZ^2*Pi^4*SW) + 
+  (CBA^2*EL^3*(MA0^2 - Mh0^2)*(Mh0^2 - MHp^2)*(MA0^2 - MHp^2 + MW^2)*B0[MA0^2, Mh0^2, MZ^2*GaugeXi[Z]])/
+   (64*CW^2*(MA0 - MHp - MW)*(MA0 + MHp - MW)*(MA0 - MHp + MW)*(MA0 + MHp + MW)*MZ^2*Pi^4*SW) + 
+  (CBA^2*EL^3*(Mh0^2 - MHp^2)*(MA0^2 - MHp^2 - MW^2)*B0[MHp^2, Mh0^2, MW^2*GaugeXi[W]])/
+   (64*CW^2*(MA0 - MHp - MW)*(MA0 + MHp - MW)*(MA0 - MHp + MW)*(MA0 + MHp + MW)*Pi^4*SW) + 
+  (CBA^2*EL^3*(Mh0^2 - MHp^2)*MW^2*(MA0^2 - Mh0^2 + MZ^2)*B0[MW^2, MZ^2, MW^2*GaugeXi[W]])/
+   (32*CW^2*(MA0 - MHp - MW)*(MA0 + MHp - MW)*(MA0 - MHp + MW)*(MA0 + MHp + MW)*MZ^2*Pi^4*SW) - 
+  (CBA^2*EL^3*(MA0^2 - Mh0^2)*(Mh0^2 - MHp^2)*MW^2*B0[MW^2, MW^2*GaugeXi[W], MZ^2*GaugeXi[Z]])/
+   (32*CW^2*(MA0 - MHp - MW)*(MA0 + MHp - MW)*(MA0 - MHp + MW)*(MA0 + MHp + MW)*MZ^2*Pi^4*SW) - 
+  (CBA^2*EL^3*(Mh0^2 - MHp^2)*C0[MA0^2, MHp^2, MW^2, MZ^2, Mh0^2, MW^2*GaugeXi[W]]*(MA0^4*MW^2 - 3*MA0^2*Mh0^2*MW^2 + 2*Mh0^4*MW^2 + 
+     MA0^2*MHp^2*MW^2 - Mh0^2*MHp^2*MW^2 - MA0^2*MW^4 + Mh0^2*MW^4 + MA0^4*MZ^2 + MA0^2*Mh0^2*MZ^2 - 3*MA0^2*MHp^2*MZ^2 - 
+     Mh0^2*MHp^2*MZ^2 + 2*MHp^4*MZ^2 - 2*MA0^2*MW^2*MZ^2 - 3*Mh0^2*MW^2*MZ^2 - 3*MHp^2*MW^2*MZ^2 + MW^4*MZ^2 - MA0^2*MZ^4 + MHp^2*MZ^4 + 
+     MW^2*MZ^4 + MA0^4*MW^2*GaugeXi[W] - MA0^2*Mh0^2*MW^2*GaugeXi[W] - MA0^2*MHp^2*MW^2*GaugeXi[W] + Mh0^2*MHp^2*MW^2*GaugeXi[W] + 
+     MA0^2*MW^4*GaugeXi[W] - Mh0^2*MW^4*GaugeXi[W] + MA0^2*MW^2*MZ^2*GaugeXi[W] - MHp^2*MW^2*MZ^2*GaugeXi[W] + MW^4*MZ^2*GaugeXi[W]))/
+   (64*CW^2*(MA0 - MHp - MW)*(MA0 + MHp - MW)*(MA0 - MHp + MW)*(MA0 + MHp + MW)*MZ^2*Pi^4*SW) + 
+  (CBA^2*EL^3*(MA0^2 - Mh0^2)*(Mh0^2 - MHp^2)*C0[MA0^2, MHp^2, MW^2, MZ^2*GaugeXi[Z], Mh0^2, MW^2*GaugeXi[W]]*
+    (MA0^2*MW^2 - 2*Mh0^2*MW^2 + MHp^2*MW^2 - MW^4 + MA0^2*MW^2*GaugeXi[W] - MHp^2*MW^2*GaugeXi[W] + MW^4*GaugeXi[W] - 
+     MA0^2*MZ^2*GaugeXi[Z] + MHp^2*MZ^2*GaugeXi[Z] + MW^2*MZ^2*GaugeXi[Z]))/(64*CW^2*(MA0 - MHp - MW)*(MA0 + MHp - MW)*(MA0 - MHp + MW)*
+    (MA0 + MHp + MW)*MZ^2*Pi^4*SW))*StandardMatrixElement[Pair[Momentum[p3], Momentum[Polarization[p4, -I]]]]

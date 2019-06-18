@@ -1,0 +1,13 @@
+__pycache__/
+*.stackdump
+*.gch
+LoopTools-*/
+LoopTools*/
+FeynArts/
+HighEnergyPhysics/
+*.o
+*.mod
+*.exe
+Temp/
+Parameters/
+Results/

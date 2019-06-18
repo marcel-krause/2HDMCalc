@@ -1,0 +1,7 @@
+I*Pi^2*((EL^3*MA0^2*MM^2*(MA0^2 - MHp^2 - MW^2)*Yuk6^2*B0[MA0^2, MM^2, MM^2])/(32*(MA0 - MHp - MW)*(MA0 + MHp - MW)*MW^2*
+    (MA0 - MHp + MW)*(MA0 + MHp + MW)*Pi^4*SW^3) - (EL^3*MHp^2*MM^2*(MA0^2 - MHp^2 + MW^2)*Yuk6^2*B0[MHp^2, 0, MM^2])/
+   (32*(MA0 - MHp - MW)*(MA0 + MHp - MW)*MW^2*(MA0 - MHp + MW)*(MA0 + MHp + MW)*Pi^4*SW^3) - 
+  (EL^3*MM^2*(MA0^2 + MHp^2 - MW^2)*Yuk6^2*B0[MW^2, 0, MM^2])/(32*(MA0 - MHp - MW)*(MA0 + MHp - MW)*(MA0 - MHp + MW)*(MA0 + MHp + MW)*
+    Pi^4*SW^3) - (EL^3*MM^2*(MA0^2*MHp^2*MM^2 - MHp^4*MM^2 - 2*MA0^2*MHp^2*MW^2 + MA0^2*MM^2*MW^2 + 2*MHp^2*MM^2*MW^2 - MM^2*MW^4)*
+    Yuk6^2*C0[MA0^2, MHp^2, MW^2, MM^2, MM^2, 0])/(32*(MA0 - MHp - MW)*(MA0 + MHp - MW)*MW^2*(MA0 - MHp + MW)*(MA0 + MHp + MW)*Pi^4*
+    SW^3))*StandardMatrixElement[Pair[Momentum[p3], Momentum[Polarization[p4, -I]]]]

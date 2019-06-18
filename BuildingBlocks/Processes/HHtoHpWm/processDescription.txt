@@ -1,0 +1,2 @@
+HH -> Hp,Wm
+MHH,MHp,MW

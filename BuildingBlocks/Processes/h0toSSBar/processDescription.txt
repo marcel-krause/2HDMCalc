@@ -1,0 +1,2 @@
+h0 -> S,SBar
+Mh0,MS,MS

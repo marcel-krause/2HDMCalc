@@ -1,0 +1,61 @@
+I*Pi^2*(((-I/64)*CBA*EL^3*MA0^2*A0[MW^2])/(MW^3*Pi^4*SW^3) + ((I/128)*CBA*EL^3*MHH^2*A0[MW^2])/(MW^3*Pi^4*SW^3) - 
+  ((I/64)*EL^3*MHH^2*SAB*A0[MW^2])/(MW^3*Pi^4*S2B*SW^3) + ((I/32)*EL*Lambda5*SAB*A0[MW^2])/(MW*Pi^4*S2B*SW) + 
+  ((I/64)*CBA*EL^3*MA0^2*A0[MW^2*GaugeXi[W]])/(MW^3*Pi^4*SW^3) - ((I/128)*CBA*EL^3*MHH^2*A0[MW^2*GaugeXi[W]])/(MW^3*Pi^4*SW^3) + 
+  ((I/64)*EL^3*MHH^2*SAB*A0[MW^2*GaugeXi[W]])/(MW^3*Pi^4*S2B*SW^3) - ((I/32)*EL*Lambda5*SAB*A0[MW^2*GaugeXi[W]])/(MW*Pi^4*S2B*SW) - 
+  ((I/64)*CBA*EL^3*MA0^2*B0[MHH^2, MA0^2, MA0^2])/(MW*Pi^4*SW^3) + ((I/128)*CBA*EL^3*MHH^2*B0[MHH^2, MA0^2, MA0^2])/(MW*Pi^4*SW^3) - 
+  ((I/64)*EL^3*MHH^2*SAB*B0[MHH^2, MA0^2, MA0^2])/(MW*Pi^4*S2B*SW^3) + ((I/32)*EL*Lambda5*MW*SAB*B0[MHH^2, MA0^2, MA0^2])/
+   (Pi^4*S2B*SW) - ((I/32)*CBA*EL^3*MA0^4*B0[MHp^2, MA0^2, MW^2])/(MW^3*Pi^4*SW^3) + 
+  ((I/64)*CBA*EL^3*MA0^2*MHH^2*B0[MHp^2, MA0^2, MW^2])/(MW^3*Pi^4*SW^3) + ((I/32)*CBA*EL^3*MA0^2*MHp^2*B0[MHp^2, MA0^2, MW^2])/
+   (MW^3*Pi^4*SW^3) - ((I/64)*CBA*EL^3*MHH^2*MHp^2*B0[MHp^2, MA0^2, MW^2])/(MW^3*Pi^4*SW^3) + 
+  ((I/32)*CBA*EL^3*MA0^2*B0[MHp^2, MA0^2, MW^2])/(MW*Pi^4*SW^3) - ((I/64)*CBA*EL^3*MHH^2*B0[MHp^2, MA0^2, MW^2])/(MW*Pi^4*SW^3) - 
+  ((I/32)*EL^3*MA0^2*MHH^2*SAB*B0[MHp^2, MA0^2, MW^2])/(MW^3*Pi^4*S2B*SW^3) + ((I/32)*EL^3*MHH^2*MHp^2*SAB*B0[MHp^2, MA0^2, MW^2])/
+   (MW^3*Pi^4*S2B*SW^3) + ((I/32)*EL^3*MHH^2*SAB*B0[MHp^2, MA0^2, MW^2])/(MW*Pi^4*S2B*SW^3) + 
+  ((I/16)*EL*Lambda5*MA0^2*SAB*B0[MHp^2, MA0^2, MW^2])/(MW*Pi^4*S2B*SW) - ((I/16)*EL*Lambda5*MHp^2*SAB*B0[MHp^2, MA0^2, MW^2])/
+   (MW*Pi^4*S2B*SW) - ((I/16)*EL*Lambda5*MW*SAB*B0[MHp^2, MA0^2, MW^2])/(Pi^4*S2B*SW) + 
+  ((I/32)*CBA*EL^3*MA0^4*B0[MHp^2, MA0^2, MW^2*GaugeXi[W]])/(MW^3*Pi^4*SW^3) - 
+  ((I/64)*CBA*EL^3*MA0^2*MHH^2*B0[MHp^2, MA0^2, MW^2*GaugeXi[W]])/(MW^3*Pi^4*SW^3) - 
+  ((I/32)*CBA*EL^3*MA0^2*MHp^2*B0[MHp^2, MA0^2, MW^2*GaugeXi[W]])/(MW^3*Pi^4*SW^3) + 
+  ((I/64)*CBA*EL^3*MHH^2*MHp^2*B0[MHp^2, MA0^2, MW^2*GaugeXi[W]])/(MW^3*Pi^4*SW^3) + 
+  ((I/32)*EL^3*MA0^2*MHH^2*SAB*B0[MHp^2, MA0^2, MW^2*GaugeXi[W]])/(MW^3*Pi^4*S2B*SW^3) - 
+  ((I/32)*EL^3*MHH^2*MHp^2*SAB*B0[MHp^2, MA0^2, MW^2*GaugeXi[W]])/(MW^3*Pi^4*S2B*SW^3) - 
+  ((I/16)*EL*Lambda5*MA0^2*SAB*B0[MHp^2, MA0^2, MW^2*GaugeXi[W]])/(MW*Pi^4*S2B*SW) + 
+  ((I/16)*EL*Lambda5*MHp^2*SAB*B0[MHp^2, MA0^2, MW^2*GaugeXi[W]])/(MW*Pi^4*S2B*SW) - 
+  ((I/64)*CBA*EL^3*MA0^6*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(MW^3*Pi^4*SW^3) + 
+  ((I/128)*CBA*EL^3*MA0^4*MHH^2*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(MW^3*Pi^4*SW^3) + 
+  ((I/32)*CBA*EL^3*MA0^4*MHp^2*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(MW^3*Pi^4*SW^3) - 
+  ((I/64)*CBA*EL^3*MA0^2*MHH^2*MHp^2*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(MW^3*Pi^4*SW^3) - 
+  ((I/64)*CBA*EL^3*MA0^2*MHp^4*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(MW^3*Pi^4*SW^3) + 
+  ((I/128)*CBA*EL^3*MHH^2*MHp^4*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(MW^3*Pi^4*SW^3) + 
+  ((I/32)*CBA*EL^3*MA0^4*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(MW*Pi^4*SW^3) - 
+  (((3*I)/64)*CBA*EL^3*MA0^2*MHH^2*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(MW*Pi^4*SW^3) + 
+  ((I/64)*CBA*EL^3*MHH^4*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(MW*Pi^4*SW^3) + 
+  ((I/32)*CBA*EL^3*MA0^2*MHp^2*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(MW*Pi^4*SW^3) - 
+  ((I/64)*CBA*EL^3*MHH^2*MHp^2*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(MW*Pi^4*SW^3) - 
+  ((I/64)*CBA*EL^3*MA0^2*MW*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(Pi^4*SW^3) + 
+  ((I/128)*CBA*EL^3*MHH^2*MW*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(Pi^4*SW^3) - 
+  ((I/64)*EL^3*MA0^4*MHH^2*SAB*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(MW^3*Pi^4*S2B*SW^3) + 
+  ((I/32)*EL^3*MA0^2*MHH^2*MHp^2*SAB*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(MW^3*Pi^4*S2B*SW^3) - 
+  ((I/64)*EL^3*MHH^2*MHp^4*SAB*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(MW^3*Pi^4*S2B*SW^3) + 
+  ((I/32)*EL^3*MA0^2*MHH^2*SAB*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(MW*Pi^4*S2B*SW^3) - 
+  ((I/32)*EL^3*MHH^4*SAB*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(MW*Pi^4*S2B*SW^3) + 
+  ((I/32)*EL^3*MHH^2*MHp^2*SAB*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(MW*Pi^4*S2B*SW^3) - 
+  ((I/64)*EL^3*MHH^2*MW*SAB*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(Pi^4*S2B*SW^3) + 
+  ((I/32)*EL*Lambda5*MA0^4*SAB*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(MW*Pi^4*S2B*SW) - 
+  ((I/16)*EL*Lambda5*MA0^2*MHp^2*SAB*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(MW*Pi^4*S2B*SW) + 
+  ((I/32)*EL*Lambda5*MHp^4*SAB*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(MW*Pi^4*S2B*SW) - 
+  ((I/16)*EL*Lambda5*MA0^2*MW*SAB*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(Pi^4*S2B*SW) + 
+  ((I/16)*EL*Lambda5*MHH^2*MW*SAB*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(Pi^4*S2B*SW) - 
+  ((I/16)*EL*Lambda5*MHp^2*MW*SAB*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(Pi^4*S2B*SW) + 
+  ((I/32)*EL*Lambda5*MW^3*SAB*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2])/(Pi^4*S2B*SW) + 
+  ((I/64)*CBA*EL^3*MA0^6*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2*GaugeXi[W]])/(MW^3*Pi^4*SW^3) - 
+  ((I/128)*CBA*EL^3*MA0^4*MHH^2*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2*GaugeXi[W]])/(MW^3*Pi^4*SW^3) - 
+  ((I/32)*CBA*EL^3*MA0^4*MHp^2*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2*GaugeXi[W]])/(MW^3*Pi^4*SW^3) + 
+  ((I/64)*CBA*EL^3*MA0^2*MHH^2*MHp^2*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2*GaugeXi[W]])/(MW^3*Pi^4*SW^3) + 
+  ((I/64)*CBA*EL^3*MA0^2*MHp^4*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2*GaugeXi[W]])/(MW^3*Pi^4*SW^3) - 
+  ((I/128)*CBA*EL^3*MHH^2*MHp^4*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2*GaugeXi[W]])/(MW^3*Pi^4*SW^3) + 
+  ((I/64)*EL^3*MA0^4*MHH^2*SAB*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2*GaugeXi[W]])/(MW^3*Pi^4*S2B*SW^3) - 
+  ((I/32)*EL^3*MA0^2*MHH^2*MHp^2*SAB*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2*GaugeXi[W]])/(MW^3*Pi^4*S2B*SW^3) + 
+  ((I/64)*EL^3*MHH^2*MHp^4*SAB*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2*GaugeXi[W]])/(MW^3*Pi^4*S2B*SW^3) - 
+  ((I/32)*EL*Lambda5*MA0^4*SAB*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2*GaugeXi[W]])/(MW*Pi^4*S2B*SW) + 
+  ((I/16)*EL*Lambda5*MA0^2*MHp^2*SAB*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2*GaugeXi[W]])/(MW*Pi^4*S2B*SW) - 
+  ((I/32)*EL*Lambda5*MHp^4*SAB*C0[MHH^2, MHp^2, MHp^2, MA0^2, MA0^2, MW^2*GaugeXi[W]])/(MW*Pi^4*S2B*SW))

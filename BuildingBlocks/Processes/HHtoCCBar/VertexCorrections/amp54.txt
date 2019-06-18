@@ -1,0 +1,21 @@
+I*Pi^2*(((-I/128)*CBA*EL^3*MC*(2*MC^2*MHH^2 - MHH^4 - 2*MHH^2*MS^2 + 4*MC^2*MW^2 + 2*MHH^2*MW^2 - 4*MS^2*MW^2 - 8*MW^4)*
+    B0[MHH^2, MW^2, MW^2]*CKM[2, 2]*Conjugate[CKM[2, 2]])/((4*MC^2 - MHH^2)*MW^3*Pi^4*SW^3) + 
+  ((I/64)*CBA*EL^3*MC*(MC^4*MHH^2 - 2*MC^2*MHH^2*MS^2 + MHH^4*MS^2 + MHH^2*MS^4 + 2*MC^4*MW^2 - 3*MC^2*MHH^2*MW^2 - 4*MC^2*MS^2*MW^2 - 
+     MHH^2*MS^2*MW^2 + 2*MS^4*MW^2 + 2*MC^2*MW^4 + 2*MHH^2*MW^4 + 2*MS^2*MW^4 - 4*MW^6)*C0[MC^2, MC^2, MHH^2, MW^2, MS^2, MW^2]*
+    CKM[2, 2]*Conjugate[CKM[2, 2]])/((4*MC^2 - MHH^2)*MW^3*Pi^4*SW^3) - 
+  ((I/64)*CBA*EL^3*MC*B0[MC^2, MS^2, MW^2*GaugeXi[W]]*CKM[2, 2]*Conjugate[CKM[2, 2]]*(3*MC^2 - MS^2 - MC^2*GaugeXi[W] - 
+     MS^2*GaugeXi[W]))/((4*MC^2 - MHH^2)*MW*Pi^4*SW^3) + ((I/64)*CBA*EL^3*MC*B0[MC^2, MS^2, MW^2]*CKM[2, 2]*Conjugate[CKM[2, 2]]*
+    (3*MC^2 - MS^2 - 4*MW^2 - MC^2*GaugeXi[W] - MS^2*GaugeXi[W]))/((4*MC^2 - MHH^2)*MW*Pi^4*SW^3) - 
+  ((I/128)*CBA*EL^3*MC*(2*MC^2 - MHH^2 - 2*MS^2)*B0[MHH^2, MW^2*GaugeXi[W], MW^2*GaugeXi[W]]*CKM[2, 2]*Conjugate[CKM[2, 2]]*
+    (MHH^2 - 2*MW^2*GaugeXi[W]))/((4*MC^2 - MHH^2)*MW^3*Pi^4*SW^3) + 
+  ((I/64)*CBA*EL^3*MC*C0[MC^2, MC^2, MHH^2, MW^2*GaugeXi[W], MS^2, MW^2*GaugeXi[W]]*CKM[2, 2]*Conjugate[CKM[2, 2]]*
+    (MHH^2 - 2*MW^2*GaugeXi[W])*(MC^4 - 2*MC^2*MS^2 + MHH^2*MS^2 + MS^4 - MC^2*MW^2*GaugeXi[W] - MS^2*MW^2*GaugeXi[W]))/
+   ((4*MC^2 - MHH^2)*MW^3*Pi^4*SW^3) + ((I/64)*CBA*EL^3*MC*B0[MHH^2, MW^2, MW^2*GaugeXi[W]]*CKM[2, 2]*Conjugate[CKM[2, 2]]*
+    (2*MC^2*MHH^2 - MHH^4 - 2*MHH^2*MS^2 + 2*MC^2*MW^2 + MHH^2*MW^2 - 2*MS^2*MW^2 - 2*MC^2*MW^2*GaugeXi[W] + MHH^2*MW^2*GaugeXi[W] + 
+     2*MS^2*MW^2*GaugeXi[W]))/((4*MC^2 - MHH^2)*MW^3*Pi^4*SW^3) - 
+  ((I/64)*CBA*EL^3*MC*C0[MC^2, MC^2, MHH^2, MW^2, MS^2, MW^2*GaugeXi[W]]*CKM[2, 2]*Conjugate[CKM[2, 2]]*
+    (2*MC^4*MHH^2 - 4*MC^2*MHH^2*MS^2 + 2*MHH^4*MS^2 + 2*MHH^2*MS^4 + 2*MC^4*MW^2 - 3*MC^2*MHH^2*MW^2 - 4*MC^2*MS^2*MW^2 - 
+     MHH^2*MS^2*MW^2 + 2*MS^4*MW^2 + 3*MC^2*MW^4 - MS^2*MW^4 - 2*MC^4*MW^2*GaugeXi[W] - MC^2*MHH^2*MW^2*GaugeXi[W] + 
+     4*MC^2*MS^2*MW^2*GaugeXi[W] - 3*MHH^2*MS^2*MW^2*GaugeXi[W] - 2*MS^4*MW^2*GaugeXi[W] - 4*MC^2*MW^4*GaugeXi[W] + 
+     2*MHH^2*MW^4*GaugeXi[W] + MC^2*MW^4*GaugeXi[W]^2 + MS^2*MW^4*GaugeXi[W]^2))/((4*MC^2 - MHH^2)*MW^3*Pi^4*SW^3))*
+ StandardMatrixElement[Spinor[Momentum[p3], MC, 1] . Spinor[-Momentum[p4], MC, 1]]

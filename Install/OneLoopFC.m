@@ -1,0 +1,38 @@
+(* ::Package:: *)
+
+dir = DirectoryName[$InputFileName]; 
+ImportPaths = FileNameJoin[{dir, "..", "Paths.m"}]; 
+Get[ImportPaths]; 
+$LoadFeynArts = $LoadPhi = False; 
+Get[FeyncalcDirectory]; 
+SetOptions[OneLoop,ReduceGamma->True];
+commandLine = $CommandLine; 
+stringlist = StringSplit[commandLine]; 
+ampFilePre = StringTrim[stringlist[[-1]], "-"][[1]]; 
+ampFile=StringSplit[ampFilePre,"SEPARATORINC"][[1]];
+massPre=StringSplit[StringSplit[ampFilePre,"SEPARATORINC"][[2]],"OUT"];
+mIn1:=ToExpression[StringSplit[massPre[[1]],"MASSSEP"][[1]]];
+If[Length[StringSplit[massPre[[1]],"MASSSEP"]]>1,mIn2:=ToExpression[StringSplit[massPre[[1]],"MASSSEP"][[2]],False;]];
+mOut1:=ToExpression[StringSplit[massPre[[2]],"MASSSEP"][[1]]];
+mOut2:=ToExpression[StringSplit[massPre[[2]],"MASSSEP"][[2]]];
+ImportFile = FileNameJoin[{dir, "..", "Temp", "amp", ampFile}]; 
+getParticleMasses[ParticleContentFile];
+p1 = p3+p4;
+Pair[Momentum[p1],Momentum[p3]] = (mIn1^2+mOut1^2-mOut2^2)/2;
+Pair[Momentum[p3],Momentum[p1]] = (mIn1^2+mOut1^2-mOut2^2)/2;
+Pair[Momentum[p1],Momentum[p4]] = (mIn1^2-mOut1^2+mOut2^2)/2;
+Pair[Momentum[p4],Momentum[p1]] = (mIn1^2-mOut1^2+mOut2^2)/2;
+Pair[Momentum[p3],Momentum[p4]] = (mIn1^2-mOut1^2-mOut2^2)/2;
+Pair[Momentum[p4],Momentum[p3]] = (mIn1^2-mOut1^2-mOut2^2)/2;
+ScalarProduct[p1,p1] = mIn1^2;
+ScalarProduct[p3,p3] = mOut1^2;
+ScalarProduct[p4,p4] = mOut2^2;
+Pair[Momentum[p1],Momentum[p1]] = mIn1^2;
+Pair[Momentum[p3],Momentum[p3]] = mOut1^2;
+Pair[Momentum[p4],Momentum[p4]] = mOut2^2;
+amp = ToExpression[Import[ImportFile]]/.{SumOver[SUNFIndex[Col_], c_, External]:>1,IndexDelta[SUNFIndex[Col2_], SUNFIndex[Col3_]]:>1}; 
+tracer = DiracSimplify2[amp /. {DiracTrace -> Tr}]; 
+simpler = OneLoopSimplify[tracer, l]; 
+oneloop = OneLoop[l, simpler]; 
+Export[FileNameJoin[{dir, "..", "Temp", "ampRes", ampFile}], oneloop]; 
+Exit[];

@@ -1,0 +1,32 @@
+double complex function SelfTauTauScalarWeakUsual(x)
+ use constants
+ implicit none
+#include "looptools.h"
+ double precision, intent(in) :: x
+ integer :: j
+ double complex :: totalAmplitude
+ double complex :: amplitudes(8)
+
+ amplitudes(1) = (0.015625D0*EL2*ML2*B0(x, Mh02, ML2)*DBLE(Yuk4**INT(2.D0)))/(MW2*PI2*SW2)
+
+ amplitudes(2) = (0.015625D0*EL2*ML2*B0(x, MHH2, ML2)*DBLE(Yuk5**INT(2.D0)))/(MW2*PI2*SW2)
+
+ amplitudes(3) = (-0.015625D0*EL2*ML2*B0(x, MA02, ML2)*DBLE(Yuk6**INT(2.D0)))/(MW2*PI2*SW2)
+
+ amplitudes(4) = (-0.015625D0*EL2*ML2*B0(x, ML2, GaugeXiZ*MZ2))/(MW2*PI2*SW2)
+
+ amplitudes(5) = 0.D0
+
+ amplitudes(6) = 0.D0
+
+ amplitudes(7) = (-0.03125D0*EL2*(-1.D0 + 2.D0*SW2)*(-2.D0 + 3.D0*B0(x, ML2, MZ2) + GaugeXiZ*B0(x, ML2, GaugeXiZ*MZ2)))/(CW2*PI2)
+
+ amplitudes(8) = 0.D0
+
+  totalAmplitude = (0D0,0D0)
+ do j=1,8
+  totalAmplitude = totalAmplitude + amplitudes(j)
+ end do
+ SelfTauTauScalarWeakUsual = totalAmplitude
+end function SelfTauTauScalarWeakUsual
+

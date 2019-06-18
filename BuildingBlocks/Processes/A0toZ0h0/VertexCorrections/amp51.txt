@@ -1,0 +1,17 @@
+I*Pi^2*((-3*CBA*EL*(MA0^2 - Mh0^2 + MZ^2)^2*SBA*(2*CAB*EL^2*Mh0^2 + EL^2*Mh0^2*S2A*SBA - 4*CAB*CBA^2*Lambda5*MW^2*SW^2)*
+    B0[MA0^2, Mh0^2, MZ^2])/(64*CW^3*(MA0 - Mh0 - MZ)*(MA0 + Mh0 - MZ)*MZ^2*(MA0 - Mh0 + MZ)*(MA0 + Mh0 + MZ)*Pi^4*S2B*SW^3) + 
+  (3*CBA*EL*(MA0^2 - Mh0^2)*(MA0^2 - Mh0^2 + MZ^2)*SBA*(2*CAB*EL^2*Mh0^2 + EL^2*Mh0^2*S2A*SBA - 4*CAB*CBA^2*Lambda5*MW^2*SW^2)*
+    B0[MA0^2, Mh0^2, MZ^2*GaugeXi[Z]])/(64*CW^3*(MA0 - Mh0 - MZ)*(MA0 + Mh0 - MZ)*MZ^2*(MA0 - Mh0 + MZ)*(MA0 + Mh0 + MZ)*Pi^4*S2B*
+    SW^3) + (3*CBA*EL*(MA0^2 - Mh0^2 - MZ^2)*SBA*(2*CAB*EL^2*Mh0^2 + EL^2*Mh0^2*S2A*SBA - 4*CAB*CBA^2*Lambda5*MW^2*SW^2)*
+    B0[Mh0^2, Mh0^2, Mh0^2])/(64*CW^3*(MA0 - Mh0 - MZ)*(MA0 + Mh0 - MZ)*(MA0 - Mh0 + MZ)*(MA0 + Mh0 + MZ)*Pi^4*S2B*SW^3) + 
+  (3*CBA*EL*(MA0^2 - Mh0^2 + MZ^2)*SBA*(2*CAB*EL^2*Mh0^2 + EL^2*Mh0^2*S2A*SBA - 4*CAB*CBA^2*Lambda5*MW^2*SW^2)*B0[MZ^2, Mh0^2, MZ^2])/
+   (32*CW^3*(MA0 - Mh0 - MZ)*(MA0 + Mh0 - MZ)*(MA0 - Mh0 + MZ)*(MA0 + Mh0 + MZ)*Pi^4*S2B*SW^3) - 
+  (3*CBA*EL*(MA0^2 - Mh0^2)*SBA*(2*CAB*EL^2*Mh0^2 + EL^2*Mh0^2*S2A*SBA - 4*CAB*CBA^2*Lambda5*MW^2*SW^2)*
+    B0[MZ^2, Mh0^2, MZ^2*GaugeXi[Z]])/(32*CW^3*(MA0 - Mh0 - MZ)*(MA0 + Mh0 - MZ)*(MA0 - Mh0 + MZ)*(MA0 + Mh0 + MZ)*Pi^4*S2B*SW^3) - 
+  (3*CBA*EL*(MA0^4*Mh0^2 - 2*MA0^2*Mh0^4 + Mh0^6 + 2*MA0^4*MZ^2 - 2*MA0^2*Mh0^2*MZ^2 - 4*MA0^2*MZ^4 - 3*Mh0^2*MZ^4 + 2*MZ^6)*SBA*
+    (2*CAB*EL^2*Mh0^2 + EL^2*Mh0^2*S2A*SBA - 4*CAB*CBA^2*Lambda5*MW^2*SW^2)*C0[MA0^2, Mh0^2, MZ^2, MZ^2, Mh0^2, Mh0^2])/
+   (64*CW^3*(MA0 - Mh0 - MZ)*(MA0 + Mh0 - MZ)*MZ^2*(MA0 - Mh0 + MZ)*(MA0 + Mh0 + MZ)*Pi^4*S2B*SW^3) + 
+  (3*CBA*EL*(MA0^2 - Mh0^2)*SBA*(2*CAB*EL^2*Mh0^2 + EL^2*Mh0^2*S2A*SBA - 4*CAB*CBA^2*Lambda5*MW^2*SW^2)*
+    C0[MA0^2, Mh0^2, MZ^2, MZ^2*GaugeXi[Z], Mh0^2, Mh0^2]*(MA0^2*Mh0^2 - Mh0^4 + MA0^2*MZ^2 - MZ^4 - MA0^2*MZ^2*GaugeXi[Z] + 
+     Mh0^2*MZ^2*GaugeXi[Z] + MZ^4*GaugeXi[Z]))/(64*CW^3*(MA0 - Mh0 - MZ)*(MA0 + Mh0 - MZ)*MZ^2*(MA0 - Mh0 + MZ)*(MA0 + Mh0 + MZ)*Pi^4*
+    S2B*SW^3))*StandardMatrixElement[Pair[Momentum[p4], Momentum[Polarization[p3, -I]]]]

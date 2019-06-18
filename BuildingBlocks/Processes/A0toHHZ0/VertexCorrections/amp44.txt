@@ -1,0 +1,19 @@
+I*Pi^2*((EL^3*(MA0^2 - MHp^2)*(MA0^2 - MHH^2 + MZ^2)*SBA*B0[MA0^2, MHp^2, MW^2*GaugeXi[W]])/
+   (64*CW*(MA0 - MHH - MZ)*(MA0 + MHH - MZ)*(MA0 - MHH + MZ)*(MA0 + MHH + MZ)*Pi^4*SW) - 
+  (EL^3*(MA0^2 - MHp^2)*(MHH^2 - MHp^2 + MW^2)*(MA0^2 - MHH^2 - MZ^2)*SBA*B0[MHH^2, MHp^2, MW^2])/
+   (64*CW*MW^2*(MA0 - MHH - MZ)*(MA0 + MHH - MZ)*(MA0 - MHH + MZ)*(MA0 + MHH + MZ)*Pi^4*SW) + 
+  (EL^3*(MA0^2 - MHp^2)*(MHH^2 - MHp^2)*(MA0^2 - MHH^2 - MZ^2)*SBA*B0[MHH^2, MHp^2, MW^2*GaugeXi[W]])/
+   (64*CW*MW^2*(MA0 - MHH - MZ)*(MA0 + MHH - MZ)*(MA0 - MHH + MZ)*(MA0 + MHH + MZ)*Pi^4*SW) - 
+  (EL^3*(MA0^2 - MHp^2)*(MHH^2 - MHp^2 + MW^2)*MZ^2*SBA*B0[MZ^2, MW^2, MW^2*GaugeXi[W]])/
+   (32*CW*MW^2*(MA0 - MHH - MZ)*(MA0 + MHH - MZ)*(MA0 - MHH + MZ)*(MA0 + MHH + MZ)*Pi^4*SW) + 
+  (EL^3*(MA0^2 - MHp^2)*(MHH^2 - MHp^2)*MZ^2*SBA*B0[MZ^2, MW^2*GaugeXi[W], MW^2*GaugeXi[W]])/
+   (32*CW*MW^2*(MA0 - MHH - MZ)*(MA0 + MHH - MZ)*(MA0 - MHH + MZ)*(MA0 + MHH + MZ)*Pi^4*SW) - 
+  (EL^3*(MA0^2 - MHp^2)*(MHH^2 - MHp^2)*MZ^2*SBA*C0[MA0^2, MHH^2, MZ^2, MW^2*GaugeXi[W], MHp^2, MW^2*GaugeXi[W]]*
+    (MA0^2 + MHH^2 - 2*MHp^2 - MZ^2 + 2*MW^2*GaugeXi[W]))/(64*CW*MW^2*(MA0 - MHH - MZ)*(MA0 + MHH - MZ)*(MA0 - MHH + MZ)*
+    (MA0 + MHH + MZ)*Pi^4*SW) + (EL^3*(MA0^2 - MHp^2)*SBA*C0[MA0^2, MHH^2, MZ^2, MW^2*GaugeXi[W], MHp^2, MW^2]*
+    (2*MA0^4*MW^2 - 3*MA0^2*MHH^2*MW^2 + MHH^4*MW^2 - MA0^2*MHp^2*MW^2 + MHH^2*MHp^2*MW^2 + MA0^2*MW^4 - MHH^2*MW^4 + MA0^2*MHH^2*MZ^2 + 
+     MHH^4*MZ^2 - MA0^2*MHp^2*MZ^2 - 3*MHH^2*MHp^2*MZ^2 + 2*MHp^4*MZ^2 - 3*MA0^2*MW^2*MZ^2 - 2*MHH^2*MW^2*MZ^2 - 3*MHp^2*MW^2*MZ^2 + 
+     MW^4*MZ^2 - MHH^2*MZ^4 + MHp^2*MZ^4 + MW^2*MZ^4 - MA0^2*MHH^2*MW^2*GaugeXi[W] + MHH^4*MW^2*GaugeXi[W] + 
+     MA0^2*MHp^2*MW^2*GaugeXi[W] - MHH^2*MHp^2*MW^2*GaugeXi[W] - MA0^2*MW^4*GaugeXi[W] + MHH^2*MW^4*GaugeXi[W] + 
+     MHH^2*MW^2*MZ^2*GaugeXi[W] - MHp^2*MW^2*MZ^2*GaugeXi[W] + MW^4*MZ^2*GaugeXi[W]))/(64*CW*MW^2*(MA0 - MHH - MZ)*(MA0 + MHH - MZ)*
+    (MA0 - MHH + MZ)*(MA0 + MHH + MZ)*Pi^4*SW))*StandardMatrixElement[Pair[Momentum[p3], Momentum[Polarization[p4, -I]]]]

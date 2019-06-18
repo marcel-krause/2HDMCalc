@@ -1,0 +1,2 @@
+(EL*CKM[1, 3]*((MU + MB*TB*Yuk3)*Spinor[Momentum[p4], MU, 1] . Spinor[-Momentum[p3], MB, 1] + 
+   (-MU + MB*TB*Yuk3)*Spinor[Momentum[p4], MU, 1] . DiracGamma[5] . Spinor[-Momentum[p3], MB, 1]))/(2*Sqrt[2]*MW*SW*TB)

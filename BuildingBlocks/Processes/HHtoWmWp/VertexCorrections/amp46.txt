@@ -1,0 +1,13 @@
+I*Pi^2*((((-I/64)*CBA*EL^3*MW*(MHH^2 - 2*MW^2)*GaugeXi[W])/(MHH^2*(MHH^2 - 4*MW^2)*Pi^4*SW) - 
+    ((I/32)*CBA*EL^3*MW*A0[MW^2*GaugeXi[W]]*GaugeXi[W])/(MHH^2*(MHH^2 - 4*MW^2)*Pi^4*SW) + 
+    ((I/32)*CBA*EL^3*MW^3*(MHH^2 + 2*MW^2)*B0[MW^2, 0, MW^2*GaugeXi[W]]*(1 - GaugeXi[W])*GaugeXi[W])/
+     (MHH^2*(MHH^2 - 4*MW^2)^2*Pi^4*SW) - ((I/16)*CBA*EL^3*MW^5*(MHH^2 - MW^2)*C0[MHH^2, MW^2, MW^2, MW^2*GaugeXi[W], MW^2*GaugeXi[W], 
+       0]*(1 - GaugeXi[W])^2*GaugeXi[W])/(MHH^2*(MHH^2 - 4*MW^2)^2*Pi^4*SW) - 
+    ((I/32)*CBA*EL^3*MW^3*B0[MHH^2, MW^2*GaugeXi[W], MW^2*GaugeXi[W]]*GaugeXi[W]*(MHH^2 + 2*MW^2 - 2*MHH^2*GaugeXi[W] + 
+       2*MW^2*GaugeXi[W]))/(MHH^2*(MHH^2 - 4*MW^2)^2*Pi^4*SW))*StandardMatrixElement[Pair[Momentum[p3], Momentum[Polarization[p4, -I]]]*
+     Pair[Momentum[p4], Momentum[Polarization[p3, -I]]]] + 
+  (((I/128)*CBA*EL^3*MW*GaugeXi[W])/(Pi^4*SW) - ((I/64)*CBA*EL^3*MW^3*B0[MW^2, 0, MW^2*GaugeXi[W]]*(1 - GaugeXi[W])*GaugeXi[W])/
+     ((MHH^2 - 4*MW^2)*Pi^4*SW) + ((I/64)*CBA*EL^3*MW^5*C0[MHH^2, MW^2, MW^2, MW^2*GaugeXi[W], MW^2*GaugeXi[W], 0]*(1 - GaugeXi[W])^2*
+      GaugeXi[W])/((MHH^2 - 4*MW^2)*Pi^4*SW) + ((I/128)*CBA*EL^3*MW*B0[MHH^2, MW^2*GaugeXi[W], MW^2*GaugeXi[W]]*GaugeXi[W]*
+      (MHH^2 - 2*MW^2 - 2*MW^2*GaugeXi[W]))/((MHH^2 - 4*MW^2)*Pi^4*SW))*
+   StandardMatrixElement[Pair[Momentum[Polarization[p3, -I]], Momentum[Polarization[p4, -I]]]])

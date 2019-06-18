@@ -1,0 +1,15 @@
+I*Pi^2*((((I/128)*CBA*EL^3*MB^2*(Mh0^2 - MHp^2)*(MB - MU)*Yuk1*B0[MB^2, MB^2, Mh0^2]*CKM[1, 3])/
+     (Sqrt[2]*(MB - MHp + MU)*(MB + MHp + MU)*MW^3*Pi^4*SW^3) - ((I/128)*CBA*EL^3*MB*(Mh0^2 - MHp^2)*(MB^2 - MU^2)*Yuk1*
+      B0[MHp^2, Mh0^2, MW^2*GaugeXi[W]]*CKM[1, 3])/(Sqrt[2]*(MB - MHp + MU)*(MB + MHp + MU)*MW^3*Pi^4*SW^3) + 
+    ((I/128)*CBA*EL^3*MB*(Mh0^2 - MHp^2)*(MB - MU)*MU*Yuk1*B0[MU^2, MB^2, MW^2*GaugeXi[W]]*CKM[1, 3])/
+     (Sqrt[2]*(MB - MHp + MU)*(MB + MHp + MU)*MW^3*Pi^4*SW^3) - ((I/128)*CBA*EL^3*MB*(Mh0^2 - MHp^2)*(MB - MU)*Yuk1*
+      C0[MB^2, MHp^2, MU^2, MB^2, Mh0^2, MW^2*GaugeXi[W]]*CKM[1, 3]*(2*MB^3 - MB*MHp^2 + 4*MB^2*MU - Mh0^2*MU + 2*MB*MU^2 - 
+       MB*MW^2*GaugeXi[W]))/(Sqrt[2]*(MB - MHp + MU)*(MB + MHp + MU)*MW^3*Pi^4*SW^3))*
+   StandardMatrixElement[Spinor[Momentum[p4], MU, 1] . Spinor[-Momentum[p3], MB, 1]] + 
+  (((I/128)*CBA*EL^3*MB^2*(Mh0^2 - MHp^2)*(MB + MU)*Yuk1*B0[MB^2, MB^2, Mh0^2]*CKM[1, 3])/(Sqrt[2]*(MB - MHp - MU)*(MB + MHp - MU)*MW^3*
+      Pi^4*SW^3) - ((I/128)*CBA*EL^3*MB*(Mh0^2 - MHp^2)*(MB^2 - MU^2)*Yuk1*B0[MHp^2, Mh0^2, MW^2*GaugeXi[W]]*CKM[1, 3])/
+     (Sqrt[2]*(MB - MHp - MU)*(MB + MHp - MU)*MW^3*Pi^4*SW^3) - ((I/128)*CBA*EL^3*MB*(Mh0^2 - MHp^2)*MU*(MB + MU)*Yuk1*
+      B0[MU^2, MB^2, MW^2*GaugeXi[W]]*CKM[1, 3])/(Sqrt[2]*(MB - MHp - MU)*(MB + MHp - MU)*MW^3*Pi^4*SW^3) - 
+    ((I/128)*CBA*EL^3*MB*(Mh0^2 - MHp^2)*(MB + MU)*Yuk1*C0[MB^2, MHp^2, MU^2, MB^2, Mh0^2, MW^2*GaugeXi[W]]*CKM[1, 3]*
+      (2*MB^3 - MB*MHp^2 - 4*MB^2*MU + Mh0^2*MU + 2*MB*MU^2 - MB*MW^2*GaugeXi[W]))/(Sqrt[2]*(MB - MHp - MU)*(MB + MHp - MU)*MW^3*Pi^4*
+      SW^3))*StandardMatrixElement[Spinor[Momentum[p4], MU, 1] . DiracGamma[5] . Spinor[-Momentum[p3], MB, 1]])

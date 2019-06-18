@@ -1,0 +1,1 @@
+(EL^3*Mh0^2*(MHH^2 - MHp^2)^2*SBA^3*C0[Mh0^2, MHH^2, MHH^2, MW^2*GaugeXi[W], MW^2*GaugeXi[W], MHp^2])/(128*MW^3*Pi^2*SW^3)

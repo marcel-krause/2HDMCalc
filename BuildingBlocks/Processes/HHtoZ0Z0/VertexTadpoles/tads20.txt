@@ -1,0 +1,3 @@
+I*Pi^2*(((I/16)*CBA*EL^3*MW^3)/(CW^2*MHH^2*Pi^4*SW^3) - (((3*I)/32)*CBA*EL^3*MW*A0[MW^2])/(CW^2*MHH^2*Pi^4*SW^3) - 
+  ((I/32)*CBA*EL^3*MW*A0[MW^2*GaugeXi[W]]*GaugeXi[W])/(CW^2*MHH^2*Pi^4*SW^3))*
+ StandardMatrixElement[Pair[Momentum[Polarization[p3, -I]], Momentum[Polarization[p4, -I]]]]

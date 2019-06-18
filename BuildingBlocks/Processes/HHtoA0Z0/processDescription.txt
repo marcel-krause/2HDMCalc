@@ -1,0 +1,2 @@
+HH -> A0,Z0
+MHH,MA0,MZ

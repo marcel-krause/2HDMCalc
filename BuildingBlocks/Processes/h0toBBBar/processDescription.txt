@@ -1,0 +1,2 @@
+h0 -> B,BBar
+Mh0,MB,MB

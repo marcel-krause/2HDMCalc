@@ -1,0 +1,14 @@
+I*Pi^2*((((3*I)/32)*EL^3*MC^2*MS^2*Yuk1*B0[Mh0^2, MS^2, MS^2]*CKM[2, 2]*Conjugate[CKM[2, 2]])/(MW^3*Pi^4*SW^3*TB^2) + 
+  (((3*I)/32)*EL^3*MS^4*Yuk1*Yuk3^2*B0[Mh0^2, MS^2, MS^2]*CKM[2, 2]*Conjugate[CKM[2, 2]])/(MW^3*Pi^4*SW^3) + 
+  (((3*I)/32)*EL^3*MC^2*MS^2*Yuk1*B0[MHp^2, MC^2, MS^2]*CKM[2, 2]*Conjugate[CKM[2, 2]])/(MW^3*Pi^4*SW^3*TB^2) + 
+  (((3*I)/16)*EL^3*MC^2*MS^2*Yuk1*Yuk3*B0[MHp^2, MC^2, MS^2]*CKM[2, 2]*Conjugate[CKM[2, 2]])/(MW^3*Pi^4*SW^3*TB) + 
+  (((3*I)/32)*EL^3*MS^4*Yuk1*Yuk3^2*B0[MHp^2, MC^2, MS^2]*CKM[2, 2]*Conjugate[CKM[2, 2]])/(MW^3*Pi^4*SW^3) + 
+  (((3*I)/32)*EL^3*MC^4*MS^2*Yuk1*C0[Mh0^2, MHp^2, MHp^2, MS^2, MS^2, MC^2]*CKM[2, 2]*Conjugate[CKM[2, 2]])/(MW^3*Pi^4*SW^3*TB^2) - 
+  (((3*I)/32)*EL^3*MC^2*MHp^2*MS^2*Yuk1*C0[Mh0^2, MHp^2, MHp^2, MS^2, MS^2, MC^2]*CKM[2, 2]*Conjugate[CKM[2, 2]])/
+   (MW^3*Pi^4*SW^3*TB^2) + (((3*I)/32)*EL^3*MC^2*MS^4*Yuk1*C0[Mh0^2, MHp^2, MHp^2, MS^2, MS^2, MC^2]*CKM[2, 2]*Conjugate[CKM[2, 2]])/
+   (MW^3*Pi^4*SW^3*TB^2) - (((3*I)/32)*EL^3*MC^2*Mh0^2*MS^2*Yuk1*Yuk3*C0[Mh0^2, MHp^2, MHp^2, MS^2, MS^2, MC^2]*CKM[2, 2]*
+    Conjugate[CKM[2, 2]])/(MW^3*Pi^4*SW^3*TB) + (((3*I)/8)*EL^3*MC^2*MS^4*Yuk1*Yuk3*C0[Mh0^2, MHp^2, MHp^2, MS^2, MS^2, MC^2]*CKM[2, 2]*
+    Conjugate[CKM[2, 2]])/(MW^3*Pi^4*SW^3*TB) + (((3*I)/32)*EL^3*MC^2*MS^4*Yuk1*Yuk3^2*C0[Mh0^2, MHp^2, MHp^2, MS^2, MS^2, MC^2]*
+    CKM[2, 2]*Conjugate[CKM[2, 2]])/(MW^3*Pi^4*SW^3) - (((3*I)/32)*EL^3*MHp^2*MS^4*Yuk1*Yuk3^2*C0[Mh0^2, MHp^2, MHp^2, MS^2, MS^2, MC^2]*
+    CKM[2, 2]*Conjugate[CKM[2, 2]])/(MW^3*Pi^4*SW^3) + (((3*I)/32)*EL^3*MS^6*Yuk1*Yuk3^2*C0[Mh0^2, MHp^2, MHp^2, MS^2, MS^2, MC^2]*
+    CKM[2, 2]*Conjugate[CKM[2, 2]])/(MW^3*Pi^4*SW^3))

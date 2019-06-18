@@ -1,0 +1,11 @@
+I*Pi^2*(((-I/16)*CAB*EL^3*Mh0^2*B0[Mh0^2, MHp^2, MHp^2])/(MW*Pi^4*S2B*SW) + ((I/32)*EL^3*Mh0^2*SBA*B0[Mh0^2, MHp^2, MHp^2])/
+   (MW*Pi^4*SW) - ((I/16)*EL^3*MHp^2*SBA*B0[Mh0^2, MHp^2, MHp^2])/(MW*Pi^4*SW) + ((I/8)*CAB*EL*Lambda5*MW*SW*B0[Mh0^2, MHp^2, MHp^2])/
+   (Pi^4*S2B) + ((I/8)*CAB*EL^3*Mh0^2*B0[MHp^2, 0, MHp^2])/(MW*Pi^4*S2B*SW) - ((I/16)*EL^3*Mh0^2*SBA*B0[MHp^2, 0, MHp^2])/(MW*Pi^4*SW) + 
+  ((I/8)*EL^3*MHp^2*SBA*B0[MHp^2, 0, MHp^2])/(MW*Pi^4*SW) - ((I/4)*CAB*EL*Lambda5*MW*SW*B0[MHp^2, 0, MHp^2])/(Pi^4*S2B) - 
+  ((I/8)*CAB*EL^3*Mh0^4*C0[Mh0^2, MHp^2, MHp^2, MHp^2, MHp^2, 0])/(MW*Pi^4*S2B*SW) + 
+  ((I/4)*CAB*EL^3*Mh0^2*MHp^2*C0[Mh0^2, MHp^2, MHp^2, MHp^2, MHp^2, 0])/(MW*Pi^4*S2B*SW) + 
+  ((I/16)*EL^3*Mh0^4*SBA*C0[Mh0^2, MHp^2, MHp^2, MHp^2, MHp^2, 0])/(MW*Pi^4*SW) - 
+  ((I/4)*EL^3*Mh0^2*MHp^2*SBA*C0[Mh0^2, MHp^2, MHp^2, MHp^2, MHp^2, 0])/(MW*Pi^4*SW) + 
+  ((I/4)*EL^3*MHp^4*SBA*C0[Mh0^2, MHp^2, MHp^2, MHp^2, MHp^2, 0])/(MW*Pi^4*SW) + 
+  ((I/4)*CAB*EL*Lambda5*Mh0^2*MW*SW*C0[Mh0^2, MHp^2, MHp^2, MHp^2, MHp^2, 0])/(Pi^4*S2B) - 
+  ((I/2)*CAB*EL*Lambda5*MHp^2*MW*SW*C0[Mh0^2, MHp^2, MHp^2, MHp^2, MHp^2, 0])/(Pi^4*S2B))

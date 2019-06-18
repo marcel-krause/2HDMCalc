@@ -1,0 +1,1 @@
+(EL*SBA*((Mh0^2 + 2*MHH^2)*S2A - (2*Lambda5*MW^2*(3*S2A + S2B)*SW^2)/EL^2))/(2*MW*S2B*SW)

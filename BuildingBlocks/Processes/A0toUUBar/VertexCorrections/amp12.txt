@@ -1,0 +1,6 @@
+I*Pi^2*(-(CA*EL*MU^3*(2*CAB*EL^2*Mh0^2 + 2*EL^2*MA0^2*S2B*SBA - EL^2*Mh0^2*S2B*SBA - 4*CAB*Lambda5*MW^2*SW^2)*B0[MU^2, MA0^2, MU^2])/
+   (128*MA0^2*MW^3*Pi^4*S2B*SB*SW^3*TB) + (CA*EL*MU^3*(2*CAB*EL^2*Mh0^2 + 2*EL^2*MA0^2*S2B*SBA - EL^2*Mh0^2*S2B*SBA - 
+     4*CAB*Lambda5*MW^2*SW^2)*B0[MU^2, Mh0^2, MU^2])/(128*MA0^2*MW^3*Pi^4*S2B*SB*SW^3*TB) + 
+  (CA*EL*(2*MA0^2 - Mh0^2)*MU^3*(2*CAB*EL^2*Mh0^2 + 2*EL^2*MA0^2*S2B*SBA - EL^2*Mh0^2*S2B*SBA - 4*CAB*Lambda5*MW^2*SW^2)*
+    C0[MA0^2, MU^2, MU^2, MA0^2, Mh0^2, MU^2])/(128*MA0^2*MW^3*Pi^4*S2B*SB*SW^3*TB))*
+ StandardMatrixElement[Spinor[Momentum[p3], MU, 1] . DiracGamma[5] . Spinor[-Momentum[p4], MU, 1]]

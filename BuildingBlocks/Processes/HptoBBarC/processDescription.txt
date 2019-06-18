@@ -1,0 +1,2 @@
+Hp -> BBar,C
+MHp,MB,MC

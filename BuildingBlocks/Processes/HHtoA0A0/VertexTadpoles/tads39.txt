@@ -1,0 +1,19 @@
+I*Pi^2*(((-I/32)*CBA^3*EL^3*MA0^2*MZ^2)/(CW^2*MHH^2*MW*Pi^4*SW^3) - ((I/64)*CBA^3*EL^3*MZ^2*S2A)/(CW^2*MW*Pi^4*S2B*SW^3) + 
+  ((I/32)*CBA^2*EL^3*MZ^2*S2A*SAB)/(CW^2*MW*Pi^4*S2B^2*SW^3) + ((I/32)*CBA^2*EL^3*MZ^2*SAB)/(CW^2*MW*Pi^4*S2B*SW^3) - 
+  ((I/16)*CBA*EL^3*MZ^2*SAB^2)/(CW^2*MW*Pi^4*S2B^2*SW^3) + ((I/32)*CAB*CBA*EL^3*Mh0^2*MZ^2*S2A*SBA)/(CW^2*MHH^2*MW*Pi^4*S2B^2*SW^3) - 
+  ((I/64)*CBA*EL^3*Mh0^2*MZ^2*S2A*SBA^2)/(CW^2*MHH^2*MW*Pi^4*S2B*SW^3) + ((I/16)*CBA*EL*Lambda5*MW*MZ^2*SAB^2)/
+   (CW^2*MHH^2*Pi^4*S2B^2*SW) + ((I/16)*C2B^2*CBA*EL*Lambda5*MW*MZ^2*SBA^2)/(CW^2*MHH^2*Pi^4*S2B^2*SW) + 
+  (((3*I)/64)*CBA^3*EL^3*MA0^2*A0[MZ^2])/(CW^2*MHH^2*MW*Pi^4*SW^3) + (((3*I)/128)*CBA^3*EL^3*S2A*A0[MZ^2])/(CW^2*MW*Pi^4*S2B*SW^3) - 
+  (((3*I)/64)*CBA^2*EL^3*S2A*SAB*A0[MZ^2])/(CW^2*MW*Pi^4*S2B^2*SW^3) - (((3*I)/64)*CBA^2*EL^3*SAB*A0[MZ^2])/(CW^2*MW*Pi^4*S2B*SW^3) + 
+  (((3*I)/32)*CBA*EL^3*SAB^2*A0[MZ^2])/(CW^2*MW*Pi^4*S2B^2*SW^3) - (((3*I)/64)*CAB*CBA*EL^3*Mh0^2*S2A*SBA*A0[MZ^2])/
+   (CW^2*MHH^2*MW*Pi^4*S2B^2*SW^3) + (((3*I)/128)*CBA*EL^3*Mh0^2*S2A*SBA^2*A0[MZ^2])/(CW^2*MHH^2*MW*Pi^4*S2B*SW^3) - 
+  (((3*I)/32)*CBA*EL*Lambda5*MW*SAB^2*A0[MZ^2])/(CW^2*MHH^2*Pi^4*S2B^2*SW) - (((3*I)/32)*C2B^2*CBA*EL*Lambda5*MW*SBA^2*A0[MZ^2])/
+   (CW^2*MHH^2*Pi^4*S2B^2*SW) + ((I/64)*CBA^3*EL^3*MA0^2*A0[MZ^2*GaugeXi[Z]]*GaugeXi[Z])/(CW^2*MHH^2*MW*Pi^4*SW^3) + 
+  ((I/128)*CBA^3*EL^3*S2A*A0[MZ^2*GaugeXi[Z]]*GaugeXi[Z])/(CW^2*MW*Pi^4*S2B*SW^3) - 
+  ((I/64)*CBA^2*EL^3*S2A*SAB*A0[MZ^2*GaugeXi[Z]]*GaugeXi[Z])/(CW^2*MW*Pi^4*S2B^2*SW^3) - 
+  ((I/64)*CBA^2*EL^3*SAB*A0[MZ^2*GaugeXi[Z]]*GaugeXi[Z])/(CW^2*MW*Pi^4*S2B*SW^3) + 
+  ((I/32)*CBA*EL^3*SAB^2*A0[MZ^2*GaugeXi[Z]]*GaugeXi[Z])/(CW^2*MW*Pi^4*S2B^2*SW^3) - 
+  ((I/64)*CAB*CBA*EL^3*Mh0^2*S2A*SBA*A0[MZ^2*GaugeXi[Z]]*GaugeXi[Z])/(CW^2*MHH^2*MW*Pi^4*S2B^2*SW^3) + 
+  ((I/128)*CBA*EL^3*Mh0^2*S2A*SBA^2*A0[MZ^2*GaugeXi[Z]]*GaugeXi[Z])/(CW^2*MHH^2*MW*Pi^4*S2B*SW^3) - 
+  ((I/32)*CBA*EL*Lambda5*MW*SAB^2*A0[MZ^2*GaugeXi[Z]]*GaugeXi[Z])/(CW^2*MHH^2*Pi^4*S2B^2*SW) - 
+  ((I/32)*C2B^2*CBA*EL*Lambda5*MW*SBA^2*A0[MZ^2*GaugeXi[Z]]*GaugeXi[Z])/(CW^2*MHH^2*Pi^4*S2B^2*SW))

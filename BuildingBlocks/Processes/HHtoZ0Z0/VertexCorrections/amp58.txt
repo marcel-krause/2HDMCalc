@@ -1,0 +1,46 @@
+I*Pi^2*((((I/64)*CBA*EL^3*MW*(MHH^2 - 2*MZ^2)*SBA^2)/(CW^4*MHH^2*(MHH^2 - 4*MZ^2)*Pi^4*SW^3) + 
+    ((I/64)*CBA*EL^3*MW*SBA^2*A0[MA0^2])/(CW^4*MHH^2*(MHH^2 - 4*MZ^2)*Pi^4*SW^3) - ((I/32)*CBA*EL^3*MW*SBA^2*A0[MHH^2])/
+     (CW^4*MHH^2*(MHH^2 - 4*MZ^2)*Pi^4*SW^3) - ((I/64)*CBA*EL^3*MW*(MA0^2 - MHH^2 - MZ^2)*SBA^2*A0[MZ^2])/
+     (CW^4*MHH^2*MZ^2*(MHH^2 - 4*MZ^2)*Pi^4*SW^3) + ((I/64)*CBA*EL^3*(MA0^2 - MHH^2)*MW*SBA^2*A0[MZ^2*GaugeXi[Z]])/
+     (CW^4*MHH^2*MZ^2*(MHH^2 - 4*MZ^2)*Pi^4*SW^3) + ((I/32)*CBA*EL^3*MW*(MA0^4*MHH^2 - 3*MA0^2*MHH^4 + 2*MHH^6 - MA0^4*MZ^2 + 
+       2*MA0^2*MHH^2*MZ^2 + 2*MHH^4*MZ^2 - 2*MA0^2*MZ^4 - 7*MHH^2*MZ^4 + 3*MZ^6)*SBA^2*B0[MHH^2, MA0^2, MZ^2])/
+     (CW^4*MHH^2*MZ^2*(MHH^2 - 4*MZ^2)^2*Pi^4*SW^3) + ((I/64)*CBA*EL^3*MW*(MA0^2*MHH^6 - MHH^8 - 6*MA0^4*MHH^2*MZ^2 + 
+       8*MA0^2*MHH^4*MZ^2 - 7*MHH^6*MZ^2 + 12*MA0^4*MZ^4 + 16*MHH^4*MZ^4 - 24*MA0^2*MZ^6 - 26*MHH^2*MZ^6 + 12*MZ^8)*SBA^2*
+      B0[MZ^2, MHH^2, MZ^2])/(CW^4*MHH^4*MZ^2*(MHH^2 - 4*MZ^2)^2*Pi^4*SW^3) + 
+    ((I/32)*CBA*EL^3*MW*(2*MA0^4*MHH^6 - 5*MA0^2*MHH^8 + 3*MHH^10 - 3*MA0^6*MHH^2*MZ^2 + MA0^4*MHH^4*MZ^2 + 4*MA0^2*MHH^6*MZ^2 - 
+       MHH^8*MZ^2 + 6*MA0^6*MZ^4 + 3*MA0^4*MHH^2*MZ^4 + 2*MA0^2*MHH^4*MZ^4 - 6*MHH^6*MZ^4 - 18*MA0^4*MZ^6 - 13*MA0^2*MHH^2*MZ^6 - 
+       3*MHH^4*MZ^6 + 18*MA0^2*MZ^8 + 13*MHH^2*MZ^8 - 6*MZ^10)*SBA^2*C0[MHH^2, MZ^2, MZ^2, MA0^2, MZ^2, MHH^2])/
+     (CW^4*MHH^4*(MHH - 2*MZ)^2*MZ^2*(MHH + 2*MZ)^2*Pi^4*SW^3) - 
+    ((I/32)*CBA*EL^3*(MA0^2 - MHH^2)*MW*SBA^2*B0[MHH^2, MA0^2, MZ^2*GaugeXi[Z]]*(MA0^2*MHH^2 - 2*MHH^4 - MA0^2*MZ^2 + MHH^2*MZ^2 - 
+       2*MZ^4 + MHH^2*MZ^2*GaugeXi[Z] - MZ^4*GaugeXi[Z]))/(CW^4*MHH^2*MZ^2*(MHH^2 - 4*MZ^2)^2*Pi^4*SW^3) + 
+    ((I/64)*CBA*EL^3*MW*SBA^2*B0[MZ^2, MA0^2, MHH^2]*(MA0^2*MHH^4 - MHH^6 - 10*MA0^2*MHH^2*MZ^2 - 5*MHH^4*MZ^2 + 24*MA0^2*MZ^4 + 
+       24*MHH^2*MZ^4 - 12*MZ^6 + 6*MA0^2*MHH^2*MZ^2*GaugeXi[Z] - 6*MHH^4*MZ^2*GaugeXi[Z] - 12*MA0^2*MZ^4*GaugeXi[Z] + 
+       12*MHH^2*MZ^4*GaugeXi[Z]))/(CW^4*MHH^4*(MHH^2 - 4*MZ^2)^2*Pi^4*SW^3) - 
+    ((I/64)*CBA*EL^3*(MA0^2 - MHH^2)*MW*SBA^2*B0[MZ^2, MHH^2, MZ^2*GaugeXi[Z]]*(MHH^6 - 6*MA0^2*MHH^2*MZ^2 + 3*MHH^4*MZ^2 + 
+       12*MA0^2*MZ^4 + 2*MHH^2*MZ^4 - MHH^4*MZ^2*GaugeXi[Z] + 4*MHH^2*MZ^4*GaugeXi[Z] - 12*MZ^6*GaugeXi[Z]))/
+     (CW^4*MHH^4*MZ^2*(MHH^2 - 4*MZ^2)^2*Pi^4*SW^3) - ((I/32)*CBA*EL^3*(MA0^2 - MHH^2)*MW*SBA^2*
+      C0[MHH^2, MZ^2, MZ^2, MA0^2, MZ^2*GaugeXi[Z], MHH^2]*(2*MA0^2*MHH^6 - 3*MHH^8 - 3*MA0^4*MHH^2*MZ^2 + 4*MHH^6*MZ^2 + 6*MA0^4*MZ^4 - 
+       2*MA0^2*MHH^2*MZ^4 - 6*MHH^4*MZ^4 + 2*MHH^2*MZ^6 - 2*MA0^2*MHH^4*MZ^2*GaugeXi[Z] + 2*MHH^6*MZ^2*GaugeXi[Z] + 
+       8*MA0^2*MHH^2*MZ^4*GaugeXi[Z] - 12*MA0^2*MZ^6*GaugeXi[Z] - 2*MHH^2*MZ^6*GaugeXi[Z] - 3*MHH^2*MZ^6*GaugeXi[Z]^2 + 
+       6*MZ^8*GaugeXi[Z]^2))/(CW^4*MHH^4*MZ^2*(MHH^2 - 4*MZ^2)^2*Pi^4*SW^3))*
+   StandardMatrixElement[Pair[Momentum[p3], Momentum[Polarization[p4, -I]]]*Pair[Momentum[p4], Momentum[Polarization[p3, -I]]]] + 
+  (((-I/384)*CBA*EL^3*MW*(MHH^2 - 2*MZ^2)*SBA^2*A0[MZ^2])/(CW^4*MZ^4*Pi^4*SW^3) - 
+    ((I/128)*CBA*EL^3*MW*(MA0^2 - MHH^2 - MZ^2)*(MA0^2 - 3*MHH^2 + 3*MZ^2)*SBA^2*B0[MHH^2, MA0^2, MZ^2])/
+     (CW^4*MZ^2*(MHH^2 - 4*MZ^2)*Pi^4*SW^3) - ((I/384)*CBA*EL^3*MW*(MHH^8 + 3*MA0^2*MHH^4*MZ^2 - 11*MHH^6*MZ^2 - 6*MA0^4*MZ^4 + 
+       6*MA0^2*MHH^2*MZ^4 + 13*MHH^4*MZ^4 + 12*MA0^2*MZ^6 - 6*MHH^2*MZ^6 - 6*MZ^8)*SBA^2*B0[MZ^2, MHH^2, MZ^2])/
+     (CW^4*MHH^2*MZ^4*(MHH^2 - 4*MZ^2)*Pi^4*SW^3) - ((I/64)*CBA*EL^3*MW*(MA0^2 - 2*MHH^2 - MZ^2)*(MA0^2 - MHH^2 - MZ^2)*
+      (MHH^2 - MA0*MZ - MZ^2)*(MHH^2 + MA0*MZ - MZ^2)*SBA^2*C0[MHH^2, MZ^2, MZ^2, MA0^2, MZ^2, MHH^2])/
+     (CW^4*MHH^2*MZ^2*(MHH^2 - 4*MZ^2)*Pi^4*SW^3) - ((I/384)*CBA*EL^3*MW*SBA^2*A0[MHH^2]*(1 - GaugeXi[Z]))/(CW^4*MZ^2*Pi^4*SW^3) - 
+    ((I/384)*CBA*EL^3*MW*SBA^2*(1 + 2*GaugeXi[Z]))/(CW^4*Pi^4*SW^3) + 
+    ((I/384)*CBA*EL^3*MW*SBA^2*A0[MZ^2*GaugeXi[Z]]*(MHH^2 - MZ^2 - MZ^2*GaugeXi[Z]))/(CW^4*MZ^4*Pi^4*SW^3) + 
+    ((I/128)*CBA*EL^3*(MA0^2 - MHH^2)*MW*SBA^2*B0[MHH^2, MA0^2, MZ^2*GaugeXi[Z]]*(MA0^2 - 3*MHH^2 + 2*MZ^2 + MZ^2*GaugeXi[Z]))/
+     (CW^4*MZ^2*(MHH^2 - 4*MZ^2)*Pi^4*SW^3) - ((I/128)*CBA*EL^3*MW*SBA^2*B0[MZ^2, MA0^2, MHH^2]*
+      (MA0^2*MHH^2 - MHH^4 - 4*MA0^2*MZ^2 + MHH^2*MZ^2 + 2*MZ^4 + 2*MA0^2*MZ^2*GaugeXi[Z] - 2*MHH^2*MZ^2*GaugeXi[Z]))/
+     (CW^4*MHH^2*(MHH^2 - 4*MZ^2)*Pi^4*SW^3) + ((I/64)*CBA*EL^3*(MA0^2 - MHH^2)*MW*SBA^2*C0[MHH^2, MZ^2, MZ^2, MA0^2, MZ^2*GaugeXi[Z], 
+       MHH^2]*(MA0^2*MHH^4 - 2*MHH^6 - MA0^4*MZ^2 + MA0^2*MHH^2*MZ^2 + 2*MHH^4*MZ^2 - MHH^2*MZ^4 - MA0^2*MHH^2*MZ^2*GaugeXi[Z] + 
+       MHH^4*MZ^2*GaugeXi[Z] + 2*MA0^2*MZ^4*GaugeXi[Z] + MHH^2*MZ^4*GaugeXi[Z] - MZ^6*GaugeXi[Z]^2))/
+     (CW^4*MHH^2*MZ^2*(MHH^2 - 4*MZ^2)*Pi^4*SW^3) + ((I/384)*CBA*EL^3*MW*SBA^2*B0[MZ^2, MHH^2, MZ^2*GaugeXi[Z]]*
+      (MHH^8 + 3*MA0^2*MHH^4*MZ^2 - 9*MHH^6*MZ^2 - 6*MA0^4*MZ^4 + 9*MA0^2*MHH^2*MZ^4 + 6*MHH^4*MZ^4 - 4*MHH^2*MZ^6 - 
+       2*MHH^6*MZ^2*GaugeXi[Z] - 3*MA0^2*MHH^2*MZ^4*GaugeXi[Z] + 9*MHH^4*MZ^4*GaugeXi[Z] + 6*MA0^2*MZ^6*GaugeXi[Z] + 
+       2*MHH^2*MZ^6*GaugeXi[Z] + MHH^4*MZ^4*GaugeXi[Z]^2 - 4*MHH^2*MZ^6*GaugeXi[Z]^2))/(CW^4*MHH^2*MZ^4*(MHH^2 - 4*MZ^2)*Pi^4*SW^3))*
+   StandardMatrixElement[Pair[Momentum[Polarization[p3, -I]], Momentum[Polarization[p4, -I]]]])

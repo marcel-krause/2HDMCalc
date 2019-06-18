@@ -1,0 +1,1 @@
+(EL*MW*SBA*Pair[Momentum[Polarization[p3, -I]], Momentum[Polarization[p4, -I]]])/(CW^2*SW)

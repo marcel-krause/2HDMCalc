@@ -1,0 +1,2 @@
+HH -> h0,h0
+MHH,Mh0,Mh0

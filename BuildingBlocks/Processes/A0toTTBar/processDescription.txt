@@ -1,0 +1,2 @@
+A0 -> T,TBar
+MA0,MT,MT

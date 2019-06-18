@@ -1,0 +1,2 @@
+Hp -> NeuT,TauBar
+MHp,0,ML

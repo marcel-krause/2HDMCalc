@@ -1,0 +1,2 @@
+Hp -> SBar,U
+MHp,MS,MU

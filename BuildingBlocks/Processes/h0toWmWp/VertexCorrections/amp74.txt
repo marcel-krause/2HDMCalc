@@ -1,0 +1,2 @@
+(-3*EL*(2*CAB*EL^2*Mh0^2 + EL^2*Mh0^2*S2A*SBA - 4*CAB*CBA^2*Lambda5*MW^2*SW^2)*B0[Mh0^2, Mh0^2, Mh0^2]*
+  StandardMatrixElement[Pair[Momentum[Polarization[p3, -I]], Momentum[Polarization[p4, -I]]]])/(128*MW*Pi^2*S2B*SW^3)

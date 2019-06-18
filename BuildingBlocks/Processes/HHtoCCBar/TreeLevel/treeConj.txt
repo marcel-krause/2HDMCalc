@@ -1,0 +1,1 @@
+(EL*MC*SA*Spinor[-Momentum[p4], MC, 1] . Spinor[Momentum[p3], MC, 1])/(2*MW*SB*SW)

@@ -1,0 +1,2 @@
+(EL*Mh0^2*SBA*(EL^2*MHH^2*S2B - EL^2*Mh0^2*S2A*SBA^2 + EL^2*MHH^2*S2A*SBA^2 + 2*EL^2*MA0^2*S2B*SBA^2 - 4*Lambda5*MW^2*S2B*SBA^2*SW^2)*
+  B0[Mh0^2, MZ^2*GaugeXi[Z], MZ^2*GaugeXi[Z]])/(256*MW^3*Pi^2*S2B*SW^3)

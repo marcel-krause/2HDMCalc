@@ -1,0 +1,7 @@
+I*Pi^2*(((I/32)*EL^3*MB^2*MC*Yuk2*(MC^2 + 2*MC^2*TB*Yuk3 + MB^2*TB^2*Yuk3^2)*B0[MC^2, MB^2, MHp^2]*CKM[2, 3]*Conjugate[CKM[2, 3]])/
+   ((4*MC^2 - MHH^2)*MW^3*Pi^4*SW^3*TB^2) - ((I/64)*EL^3*MB^2*MC*Yuk2*(2*MC^2 + MHH^2*TB*Yuk3 + 2*MB^2*TB^2*Yuk3^2)*
+    B0[MHH^2, MB^2, MB^2]*CKM[2, 3]*Conjugate[CKM[2, 3]])/((4*MC^2 - MHH^2)*MW^3*Pi^4*SW^3*TB^2) + 
+  ((I/64)*EL^3*MB^2*MC*Yuk2*(2*MB^2*MC^2 + 2*MC^4 - MC^2*MHH^2 - 2*MC^2*MHp^2 + 8*MB^2*MC^2*TB*Yuk3 - MB^2*MHH^2*TB*Yuk3 - 
+     MC^2*MHH^2*TB*Yuk3 - MHH^2*MHp^2*TB*Yuk3 + 2*MB^4*TB^2*Yuk3^2 + 2*MB^2*MC^2*TB^2*Yuk3^2 - MB^2*MHH^2*TB^2*Yuk3^2 - 
+     2*MB^2*MHp^2*TB^2*Yuk3^2)*C0[MC^2, MC^2, MHH^2, MB^2, MHp^2, MB^2]*CKM[2, 3]*Conjugate[CKM[2, 3]])/
+   ((4*MC^2 - MHH^2)*MW^3*Pi^4*SW^3*TB^2))*StandardMatrixElement[Spinor[Momentum[p3], MC, 1] . Spinor[-Momentum[p4], MC, 1]]

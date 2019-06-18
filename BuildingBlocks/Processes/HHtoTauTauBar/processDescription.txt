@@ -1,0 +1,2 @@
+HH -> Tau,TauBar
+MHH,ML,ML

@@ -1,0 +1,2 @@
+HH -> C,CBar
+MHH,MC,MC

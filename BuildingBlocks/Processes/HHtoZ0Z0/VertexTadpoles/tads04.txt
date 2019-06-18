@@ -1,0 +1,2 @@
+(-3*EL^3*MU^2*SA*A0[MU^2]*StandardMatrixElement[Pair[Momentum[Polarization[p3, -I]], Momentum[Polarization[p4, -I]]]])/
+ (16*CW^2*MHH^2*MW*Pi^2*SB*SW^3)

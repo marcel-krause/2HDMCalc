@@ -1,0 +1,3 @@
+I*Pi^2*(((I/32)*EL^3*ML^4*Yuk5*Yuk6^2*B0[MHH^2, ML^2, ML^2])/(MW^3*Pi^4*SW^3) + ((I/32)*EL^3*ML^4*Yuk5*Yuk6^2*B0[MHp^2, 0, ML^2])/
+   (MW^3*Pi^4*SW^3) - ((I/32)*EL^3*MHp^2*ML^4*Yuk5*Yuk6^2*C0[MHH^2, MHp^2, MHp^2, ML^2, ML^2, 0])/(MW^3*Pi^4*SW^3) + 
+  ((I/32)*EL^3*ML^6*Yuk5*Yuk6^2*C0[MHH^2, MHp^2, MHp^2, ML^2, ML^2, 0])/(MW^3*Pi^4*SW^3))

@@ -1,0 +1,1 @@
+(EL^2*(MHH^4 - 2*MHH^2*MHp^2 + MHp^4 - 2*MHH^2*MW^2 - 2*MHp^2*MW^2 + MW^4)*SBA^2)/(4*MW^2*SW^2)

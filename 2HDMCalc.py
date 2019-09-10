@@ -7,9 +7,9 @@
 #									2HDMCalc										#
 #																					#
 #	Purpose:	Calculate amplitudes and decay rates for 2HDM processes at NLO.		#
-#	Author: 	Marcel Krause (marcel.krause@kit.edu)								#
-#	Version:	0.2																	#
-#	Date:		21.11.2016															#
+#	Author: 	Dr. Marcel Krause (marcel.krause@kit.edu)							#
+#	Version:	1.0.1																#
+#	Date:		10.09.2019															#
 #																					#
  ###################################################################################
 
@@ -434,7 +434,7 @@ if __name__ == "__main__":		# This is necessary for correct parallelisation unde
 	print('''
 	+---------------------------------------+
 	|                                       |
-	|             2HDMCalc 1.0.0            |
+	|             2HDMCalc 1.0.1            |
 	|                                       |
 	|                             /         |
 	|                            /          |

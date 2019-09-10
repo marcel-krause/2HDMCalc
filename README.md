@@ -4,9 +4,9 @@ A program for the Semi-Automated Calculation of Electroweak One-Loop Corrections
 
 ## Program information
 
-**Program** 2HDMCalc 1.0.0
+**Program** 2HDMCalc 1.0.1
 
-**Date** 18.06.2019
+**Date** 10.09.2019
 
 **Author** [Marcel Krause](mailto:marcel.krause@kit.edu)
 

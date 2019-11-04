@@ -3,32 +3,32 @@
 
 
  ###################################################################################
-#																					#
-#									2HDMCalc										#
-#																					#
-#	Purpose:	Calculate amplitudes and decay rates for 2HDM processes at NLO.		#
-#	Author: 	Dr. Marcel Krause (marcel.krause@kit.edu)							#
-#	Version:	1.0.1																#
-#	Date:		10.09.2019															#
-#																					#
+#                                                                                   #
+#                                    2HDMCalc                                       #
+#                                                                                   #
+#    Purpose:    Calculate amplitudes and decay rates for 2HDM processes at NLO.    #
+#    Author:     Dr. Marcel Krause (marcel.krause@alumni.kit.edu)                   #
+#    Version:    1.0.2                                                              #
+#    Date:       04.11.2019                                                         #
+#                                                                                   #
  ###################################################################################
 
 
 #------------------------------#
-#		 Import Modules		   #
+#         Import Modules       #
 #------------------------------#
 import sys
 import os
 from shutil import copyfile, rmtree
 import subprocess
 import multiprocessing
-import CommonFunctions			# Provides common, often used functions for different scripts of 2HDMCalc
-from Configuration import *		# Load the configuration file
-from ParticleContent import particles2HDM, particleMasses	# Load the particle content and masses of the model
+import CommonFunctions            # Provides common, often used functions for different scripts of 2HDMCalc
+from Configuration import *       # Load the configuration file
+from ParticleContent import particles2HDM, particleMasses    # Load the particle content and masses of the model
 
 
 #-------------------------#
-#		 Functions		  #
+#         Functions       #
 #-------------------------#
 def validInput(candidateInput):
 	'''
@@ -434,7 +434,7 @@ if __name__ == "__main__":		# This is necessary for correct parallelisation unde
 	print('''
 	+---------------------------------------+
 	|                                       |
-	|             2HDMCalc 1.0.1            |
+	|             2HDMCalc 1.0.2            |
 	|                                       |
 	|                             /         |
 	|                            /          |

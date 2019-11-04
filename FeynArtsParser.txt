@@ -1,0 +1,58 @@
+amplitudes = 
+ amplitudes // ReplaceAll[#, {DiracSpinor -> Spinor}] &; amplitudes = 
+ amplitudes // 
+  ReplaceAll[#, {FermionChain -> DOT, 
+     NonCommutative -> 
+      DOT}] &;(*amplitudes=amplitudes//ReplaceAll[#,(a1__ \
+DiracGamma[x_].DiracGamma[6] a2__+a1__ DiracGamma[x_].DiracGamma[7] \
+a2__)\[RuleDelayed]a1 DiracGamma[x] a2]&;*)amplitudes = 
+ amplitudes // 
+  ReplaceAll[#, {FourMomentum[Incoming, 1] -> p1, 
+     FourMomentum[Incoming, 2] -> p2, FourMomentum[Outgoing, 1] -> p3,
+      FourMomentum[Outgoing, 2] -> p4, FourMomentum[Outgoing, 3] -> p5,
+     FourMomentum[Internal, 1] -> l}] &; amplitudes = 
+ amplitudes // 
+  ReplaceAll[#, {Index[Lorentz, x_] :> 
+      LorentzIndex[ToExpression["Lor" <> ToString[x]]], 
+     Index[Gluon, x_] :> SUNIndex[ToExpression["Glu" <> ToString[x]]],
+      Index[Colour, x_] :> 
+      SUNFIndex[ToExpression["Col" <> ToString[x]]]}] &; amplitudes = 
+ amplitudes // 
+  ReplaceAll[#, {PolarizationVector[_, x_, y_] :> 
+      PolarizationVector[x, y], 
+     Conjugate[PolarizationVector][_, x_, y_] :> 
+      Conjugate[PolarizationVector[x, y]]}] &; amplitudes = 
+ amplitudes // ReplaceAll[#, {SumOver[_, a_] :> a}] &; amplitudes = 
+ amplitudes // ReplaceAll[#, {SUNT[a_, i_, j_] :> SUNTF[a, i, j]}] &;
+amplitudes = amplitudes // ReplaceAll[#, MatrixTrace :> DiracTrace] &;
+
+diractraceposition = {};
+totaltracestring = {};
+
+For[j = 1, j <= Length[amplituderange], j++,
+ diagram = amplituderange[[j]];
+ If[FreeQ[amplitudes[[diagram]][[3]], _DiracTrace],
+  diractraceposition = Insert[diractraceposition, -1, j];
+  totaltracestring = Insert[totaltracestring, -1, j];
+  ,
+  Clear[diractracepart];
+  diractracestring = "DiracTrace[";
+  diractracepart = Cases[amplitudes[[diagram]][[3]], _DiracTrace][[1]];
+  For[i = 1, i <= Length[diractracepart], i++, 
+   diractracestring = 
+    diractracestring <> If[i == 1, "", "."] <> "(" <> 
+     ToString[diractracepart[[i]], InputForm] <> ")"];
+  diractracestring = diractracestring <> "]";
+  diractraceposition = 
+   Insert[diractraceposition, 
+    Position[amplitudes[[diagram]][[3]], _DiracTrace][[1]][[1]], j];
+  totaltracestring = Insert[totaltracestring, diractracestring, j];
+  ]
+ ]
+
+For[j = 1, j <= Length[amplituderange], j++,
+  diagram = amplituderange[[j]];
+  For[i = 1, i <= Length[amplitudes[[diagram]][[3]]], i++, FAamp = FAamp <> If[i == 1, "", "*"] <> "(" <> If[i == diractraceposition[[j]], totaltracestring[[j]], ToString[amplitudes[[diagram]][[3]][[i]], InputForm]] <> ")"];
+  FAamp = FAamp <> If[Length[amplitudes[[diagram]][[3]]] == 0, "0", ""];
+  If[j == Length[amplituderange], "" , FAamp = FAamp <> ","];
+  ]

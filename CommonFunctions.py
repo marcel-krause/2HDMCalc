@@ -31,7 +31,11 @@ def queryBoolean(question):
 
 	while True:
 		sys.stdout.write(question + prompt)
-		choice = input().lower()
+		# Compatibility for Python 2 and 3
+		if(sys.version_info > (3,0)):
+			choice = input().lower()
+		else:
+			choice = raw_input().lower()
 		if choice in validTrue:
 			return True
 		elif choice in validFalse:

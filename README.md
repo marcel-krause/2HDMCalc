@@ -4,11 +4,11 @@ A program for the Semi-Automated Calculation of Electroweak One-Loop Corrections
 
 ## Program information
 
-**Program** 2HDMCalc 1.0.1
+**Program** 2HDMCalc 1.0.2
 
 **Date** 10.09.2019
 
-**Author** [Marcel Krause](mailto:marcel.krause@kit.edu)
+**Author** [Marcel Krause](mailto:marcel.krause@alumni.kit.edu)
 
 **Changelog** For a documentation about the changes made in 2HDMCalc, check the [Changelog.md](Changelog.md) file.
 
@@ -16,7 +16,7 @@ A program for the Semi-Automated Calculation of Electroweak One-Loop Corrections
 
 **License** GNU General Public License (GNU GPL-3.0-or-later). 2HDMCalc is released under GNU General Public License (GNU GPL-3.0-or-later). This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You have received a copy ([LICENSE.md](LICENSE.md)) of the GNU General Public License along with this program.
 
-**Contact** For feedback, complaints and bug reports, please send an e-mail to <marcel.krause@kit.edu>.
+**Contact** For feedback, complaints and bug reports, please send an e-mail to <marcel.krause@alumni.kit.edu>.
 
 ### System requirements
 

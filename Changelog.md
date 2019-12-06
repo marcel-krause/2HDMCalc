@@ -1,3 +1,7 @@
+## [1.0.3] - 2019-12-06
+### Added
+- Added the FeynArts model file of the 2HDM to the Install folder.
+
 ## [1.0.2] - 2019-11-04
 ### Changed
 - Changed the mail address of the author.
